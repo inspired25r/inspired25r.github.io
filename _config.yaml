@@ -1,0 +1,13 @@
+title: "Portfolio"
+desciption: "Real Real Portfolio"
+url: "https://inspired25r.github.io"
+baseurl: ""
+
+author:
+  name: inspired25r
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
